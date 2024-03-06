@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Life-Long Learning with Human Help (L<sup>3</sup>H<sup>2</sup>)
+title: Task and Motion Coordination under Geometric, Dynamic and Temporal Constraints (TMC+X)
 description: Call for Papers
 ---
 
 ## Call for papers
 
 #### Important dates
+
+TBD
 
 - Workshop paper submission deadline: ~~28th April 2023 (AOE)~~
 - Author notification: ~~12th May 2023~~
